@@ -38,4 +38,13 @@ body{
     background: none;
     outline: none;
   }
+  .txt_field label{
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    color: #adadad;
+    transform: translateY(-50%);
+    font-size: 16px;
+    pointer-events: none;
+}
   
